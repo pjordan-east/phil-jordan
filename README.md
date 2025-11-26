@@ -54,6 +54,6 @@ A minimal React/Next.js admin dashboard showcasing UI architecture, hooks, routi
 
 ---
 
-## 🚀 Availability
+## Availability
 
 I'm currently open for **short-term contract**
