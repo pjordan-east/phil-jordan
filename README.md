@@ -1,4 +1,4 @@
-# Hi, I'm Phil 👋
+# Hi, I'm Phil
 
 I'm a **senior full-stack engineer and CTO-level builder** with 20+ years’ experience delivering production systems across travel, fintech, marketplaces, e-commerce and AI-driven platforms.
 
@@ -6,7 +6,7 @@ I specialise in **rapid delivery**, **unblocking struggling projects**, and **bu
 
 ---
 
-## 🧩 What I Do
+## What I Do
 
 - **Full-stack engineering** (Node.js, Express, PHP, Laravel, React, Next.js)
 - **Backend systems & APIs** (REST, microservices, auth, payments)
@@ -19,7 +19,7 @@ I work best in environments where pragmatism, speed and clarity matter.
 
 ---
 
-## 🔧 Core Technologies
+## Core Technologies
 
 **Backend:**  
 Node.js (Express), PHP (Laravel), Python  
@@ -34,20 +34,20 @@ AWS (EC2, RDS, S3), Nginx, PM2, Docker, CI/CD (GitHub Actions, GitLab, CircleCI)
 
 ---
 
-## 📦 Selected Public Repositories
+## Selected Public Repositories
 
-### 🔹 Hilltop Lodge Parking *(Production booking system)*  
+### Hilltop Lodge Parking *(Production booking system)*  
 A full end-to-end airport parking booking platform built in Node.js, Express, Postgres, and Stripe.  
 Includes quote engine, discount logic, booking flow, payments, validations, and operational tooling.
 
 *(Repo coming shortly)*
 
-### 🔹 Fast Quote API *(Sample backend project)*  
+### Fast Quote API *(Sample backend project)*  
 A clean, well-structured Express API demonstrating layered architecture, validation, testing and real-world patterns.
 
 *(Repo coming shortly)*
 
-### 🔹 Booking Admin UI *(Sample frontend project)*  
+### Booking Admin UI *(Sample frontend project)*  
 A minimal React/Next.js admin dashboard showcasing UI architecture, hooks, routing and integration patterns.
 
 *(Repo coming shortly)*
