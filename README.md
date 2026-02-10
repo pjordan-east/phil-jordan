@@ -40,20 +40,13 @@ AWS (EC2, RDS, S3), Nginx, PM2, Docker, CI/CD (GitHub Actions, GitLab, CircleCI)
 A full end-to-end airport parking booking platform built in Node.js, Express, Postgres, and Stripe.  
 Includes quote engine, discount logic, booking flow, payments, validations, and operational tooling.
 
-*(Repo coming shortly)*
-
 ### Fast Quote API *(Sample backend project)*  
 A clean, well-structured Express API demonstrating layered architecture, validation, testing and real-world patterns.
 
-*(Repo coming shortly)*
+### AI Medical Notes *(AI data processing demo)*  
+An AI-powered medical notes processing pipeline that anonymises patient data, applies validation rules, and transforms unstructured clinical text into structured JSON suitable for NHS-style systems.  
+Includes prompt engineering, document ingestion, rule-based validation, and secure data handling.
 
-### Booking Admin UI *(Sample frontend project)*  
-A minimal React/Next.js admin dashboard showcasing UI architecture, hooks, routing and integration patterns.
-
-*(Repo coming shortly)*
-
----
-
-## Availability
-
-I'm currently open for **short-term contract**
+### Parking Pricing Engine *(TypeScript domain model demo)*  
+A strongly typed pricing engine written in TypeScript for calculating airport parking fees.  
+Includes support for rate bands, date-based overrides, and percentage / fixed discounts.
